@@ -1,5 +1,5 @@
-This is my first repo..
-<br>
+# This is my first repo
+
 I'm going to practice here..
-<br>
-auther _ BKU
+
+author _ BKU
